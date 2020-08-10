@@ -10,6 +10,7 @@
         <module name="demo6-config" />
         <module name="demo4-feign" />
         <module name="demo5-zuul" />
+        <module name="demo7-config-client" />
         <module name="demo2" />
         <module name="demo3-ribbon" />
       </profile>
@@ -23,6 +24,7 @@
       <module name="demo4-feign" options="-parameters" />
       <module name="demo5-zuul" options="-parameters" />
       <module name="demo6-config" options="-parameters" />
+      <module name="demo7-config-client" options="-parameters" />
       <module name="springboot-demo" options="-parameters" />
     </option>
   </component>

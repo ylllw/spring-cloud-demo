@@ -15,6 +15,7 @@
         <module>demo4-feign</module>
         <module>demo5-zuul</module>
         <module>demo6-config</module>
+        <module>demo7-config-client</module>
     </modules>
 
     <parent>
