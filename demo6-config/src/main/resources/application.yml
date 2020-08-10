@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-config-server
+server:
+  port: 8006
+
